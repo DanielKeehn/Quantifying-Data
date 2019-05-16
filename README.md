@@ -6,3 +6,4 @@ A data visualization project depicting data sets containing everyday “artifact
 ## Information on Project
 
 ## Example Video
+The base directory of this repository contains Example.wmv. This file is a video displaying this project.
