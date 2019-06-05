@@ -12,3 +12,5 @@ When loaded, this project shows a graph with an X and Y coordinate and each imag
 
 ## Example Video
 The base directory of this repository contains Example.wmv. This file is a video displaying this project.
+
+![](ExampleImage.png)
