@@ -11,7 +11,7 @@ For two weeks, my classmates and I took a picture every time we encountered a ce
 When loaded, this project shows a graph with an X and Y coordinate and each image for each data set is plotted on this graph. The X coordinate runs parallel to one data set of images, so the x coordinate helps the user see the number of images contained in a single data set. The Y coordinate runs parallel an image in every data set, so this coordinate helps the user see the amount of data sets in total. When a user holds down the mouse on an image, they can see the image enlarged on the top left of the screen with some data about the information. The information shown on the grey box tells the user the name of the image, the data the image was taken, and three tags about the image which are descriptive words to describe an image which vary for each data set.
 
 ## Example Video
-The base directory of this repository contains Example.wmv. This file is a video displaying this project.
+![](Example.wmv)
 
 ## Example Image
 ![](ExampleImage.png)
